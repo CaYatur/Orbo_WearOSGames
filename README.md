@@ -112,7 +112,7 @@ app/src/main/java/com/cayadev/orbo/
 
 ## License
 
-MIT License — © 2024–2026 **CaYaDev (Çağan Turgut)**  
+MIT License — © 2026 **CaYaDev (ÇAĞAN TURGUT)**  
 See [LICENSE](LICENSE) for full text.
 
 ---
