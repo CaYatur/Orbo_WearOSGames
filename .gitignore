@@ -1,0 +1,20 @@
+# Build outputs
+.gradle/
+app/build/
+build/
+
+# Android local config
+local.properties
+
+# Signing keystores — keep private, never commit
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# APKs / AABs
+*.apk
+*.aab

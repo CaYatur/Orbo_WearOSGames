@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!--
+      Adaptive-icon foreground. All artwork is centred on (54,54) and kept inside the
+      66dp safe zone (radius < 33) so it stays centred under any launcher mask shape.
+    -->
+    <!-- Soft inner disc for depth -->
+    <path
+        android:fillColor="#1A22E3A6"
+        android:pathData="M54,54 m-30,0 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <!-- Outer orb ring -->
+    <path
+        android:strokeColor="#22E3A6"
+        android:strokeWidth="6"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-25,0 a25,25 0 1,0 50,0 a25,25 0 1,0 -50,0" />
+    <!-- Inner accent ring -->
+    <path
+        android:strokeColor="#6C5CE7"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0" />
+    <!-- Centred play triangle -->
+    <path
+        android:fillColor="#22E3A6"
+        android:pathData="M48,43 L48,65 L68,54 Z" />
+</vector>

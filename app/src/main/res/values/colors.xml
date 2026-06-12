@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orbo_bg">#FF05060A</color>
+    <color name="orbo_accent">#FF22E3A6</color>
+    <color name="orbo_accent2">#FF6C5CE7</color>
+    <color name="ic_launcher_background">#FF05060A</color>
+</resources>

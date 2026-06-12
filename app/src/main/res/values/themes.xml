@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Orbo.Splash" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@color/orbo_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackground">@color/orbo_bg</item>
+        <!--
+          Disable the platform swipe-to-dismiss gesture. Without this the system
+          intercepts every right-swipe (cancelling the in-app touch stream), which
+          both exited the app AND broke in-game right swipes. Turning it off lets the
+          app receive the full gesture; exit is handled deliberately via the back button.
+        -->
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+</resources>
